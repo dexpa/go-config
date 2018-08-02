@@ -1,9 +1,9 @@
 package json_test
 
 import (
-	"github.com/cheebo/go-config"
-	"github.com/cheebo/go-config/sources/json"
-	"github.com/cheebo/go-config/types"
+	"github.com/dexpa/go-config"
+	"github.com/dexpa/go-config/sources/json"
+	"github.com/dexpa/go-config/types"
 	"github.com/stretchr/testify/assert"
 
 	"testing"

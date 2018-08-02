@@ -1,8 +1,8 @@
 package env
 
 import (
-	"github.com/cheebo/go-config"
-	"github.com/cheebo/go-config/utils"
+	"github.com/dexpa/go-config"
+	"github.com/dexpa/go-config/utils"
 	"os"
 	"reflect"
 	"strconv"

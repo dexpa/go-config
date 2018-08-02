@@ -22,7 +22,7 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/cheebo/consul-utils"
+  name = "github.com/dexpa/consul-utils"
 
 [[constraint]]
   name = "github.com/hashicorp/consul"

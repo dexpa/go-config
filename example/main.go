@@ -1,10 +1,10 @@
 package main
 
 import (
-	cfg "github.com/cheebo/go-config"
-	"github.com/cheebo/go-config/sources/env"
-	"github.com/cheebo/go-config/sources/flag"
-	"github.com/cheebo/go-config/types"
+	cfg "github.com/dexpa/go-config"
+	"github.com/dexpa/go-config/sources/env"
+	"github.com/dexpa/go-config/sources/flag"
+	"github.com/dexpa/go-config/types"
 	"github.com/davecgh/go-spew/spew"
 )
 

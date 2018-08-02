@@ -1,9 +1,9 @@
 package go_config_test
 
 import (
-	"github.com/cheebo/go-config"
-	"github.com/cheebo/go-config/sources/env"
-	"github.com/cheebo/go-config/sources/flag"
+	"github.com/dexpa/go-config"
+	"github.com/dexpa/go-config/sources/env"
+	"github.com/dexpa/go-config/sources/flag"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

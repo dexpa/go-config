@@ -1,10 +1,10 @@
 package consul
 
 import (
-	"github.com/cheebo/consul-utils"
-	"github.com/cheebo/go-config"
-	"github.com/cheebo/go-config/types"
-	"github.com/cheebo/go-config/utils"
+	"github.com/dexpa/consul-utils"
+	"github.com/dexpa/go-config"
+	"github.com/dexpa/go-config/types"
+	"github.com/dexpa/go-config/utils"
 	"github.com/hashicorp/consul/api"
 	"reflect"
 	"strings"

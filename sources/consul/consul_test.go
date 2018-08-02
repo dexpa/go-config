@@ -1,9 +1,9 @@
 package consul_test
 
 import (
-	"github.com/cheebo/go-config"
-	"github.com/cheebo/go-config/sources/consul"
-	"github.com/cheebo/go-config/types"
+	"github.com/dexpa/go-config"
+	"github.com/dexpa/go-config/sources/consul"
+	"github.com/dexpa/go-config/types"
 	"github.com/stretchr/testify/assert"
 
 	"testing"

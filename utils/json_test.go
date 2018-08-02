@@ -2,7 +2,7 @@ package utils_test
 
 import (
 	"encoding/json"
-	"github.com/cheebo/go-config/utils"
+	"github.com/dexpa/go-config/utils"
 	"github.com/davecgh/go-spew/spew"
 	"github.com/stretchr/testify/assert"
 	"testing"
