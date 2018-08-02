@@ -1,0 +1,14 @@
+{
+  "amqp": {
+    "url": "localhost",
+    "exchange": "exch",
+    "queue": "que",
+    "kind": "knd",
+    "key": "k",
+    "durable": true,
+    "autodelete": true,
+    "deliverymode": 2
+  },
+  "name": "John Doe",
+  "age": 30
+}
